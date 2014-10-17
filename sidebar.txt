@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mtc:home|Door43 (mtc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mtc|d43-mtc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mtc/archive/master.zip|d43-mtc.zip]]
+
+**Recent Changes**
+{{changes>ns = mtc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mtc|Ethnologue data]]
+
